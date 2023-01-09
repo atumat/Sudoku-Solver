@@ -18,5 +18,5 @@ Rule 2: The numbers 1 to 9 must appear exactly once in each column.
 Rule 3: Each block can only have one instance of the digits 
 
 
-The soduko grid is represented using a two-dimensional array.
+The soduko grid is represented using a two-dimensional array.The value 0 indicates a free cell whose value will be filled by the code.
 
