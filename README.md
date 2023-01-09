@@ -1,4 +1,4 @@
- Sudoku-Solver in Java(ongoing)
+ Sudoku-Solver in Java
  
  
  
