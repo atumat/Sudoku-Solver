@@ -19,3 +19,4 @@ Rule 3: Each block can only have one instance of the digits 
 
 
 The soduko grid is represented using a two-dimensional array.
+
