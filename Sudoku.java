@@ -11,6 +11,7 @@ public class Sudoku{
       System.out.println("The solution is found");
       printGrid(grid);
     }
+    
     else{
       System.out.println("No solution");
     }
