@@ -10,10 +10,13 @@ public class Sudoku{
     else if(search(grid)){
       System.out.println("The solution is found");
       printGrid(grid);
-    }else{
+    }
+    else{
       System.out.println("No solution");
-    }}
+    }
+  }
     
+  
     //Reading a puzzle from input
     
       
