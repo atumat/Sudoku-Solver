@@ -6,7 +6,8 @@ public class Sudoku{
     
     if(!isValid(grid)){
       System.out.println("Invalid input");
-    }else if(search(grid)){
+    }
+    else if(search(grid)){
       System.out.println("The solution is found");
       printGrid(grid);
     }else{
