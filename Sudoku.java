@@ -1,7 +1,9 @@
 import java.util.Scanner;
 public class Sudoku{
+  
   public static void main(String[] args){
     int[][]grid=readAPuzzle();
+    
     if(!isValid(grid)){
       System.out.println("Invalid input");
     }else if(search(grid)){
