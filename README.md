@@ -11,11 +11,13 @@ Rule 1: The digits 1 to 9 must appear exactly once in each row.
 
 
 
+
 Rule 2: The numbers 1 to 9 must appear exactly once in each column.
 
 
 
 Rule 3: Each block can only have one instance of the digits 
+
 
 
 
