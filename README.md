@@ -5,15 +5,13 @@
 <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen">
  </p>
  
- <p align="right">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/116307514/218178730-a3c647e5-ed9b-4fd1-816d-332fbedeaff3.png">
-</p>
+ 
 
 </p>
 <h3> TABLE OF CONTENTS </h3>
 <ol type="I">
     <li><a href="#intro"> Introduction  </a></li>
-    <li><a href="#scope"> Rules </a></li>
+    <li><a href="#rules"> Rules </a></li>
     <li><a href="#assump"> Data Structure </a></li>
     <li><a href="#req"> Requirements </a></li>
     <li><a href="#database"> Database Used </a></li>
@@ -23,20 +21,23 @@
     
  </ol> 
  
-A problem involving the placing of numbers using logic is called sudoku. The goal of traditional Sudoku is to fill a 9 by 9 grid with numbers so that each column, row, and each of the nine 3 x 3 subgrids that make up the grid include all digits from 1 to 9. The difficulty comes from the constraints the player must adhere to in order to fill the grid.
+<h2 id="intro">Introduction</h2>
+<p align="justify">
+A problem involving the placing of numbers using logic is called sudoku. The goal of traditional Sudoku is to fill a 9 by 9 grid with numbers so that each column, row, and each of the nine 3 x 3 subgrids that make up the grid include all digits from 1 to 9.
+ </p> 
 
 
+<p align="right">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/116307514/218178730-a3c647e5-ed9b-4fd1-816d-332fbedeaff3.png">
+</p>
+<h2 id="rules">Constraints</h2>
+<p align="justify">
+ The difficulty comes from the constraints the player must adhere to in order to fill the grid. <br>
+Rule 1: The digits 1 to 9 must appear exactly once in each row.  <br>
+Rule 2: The numbers 1 to 9 must appear exactly once in each column. <br>
+Rule 3: Each block can only have one instance of the digits <br>
+ </p>
 
-Rule 1: The digits 1 to 9 must appear exactly once in each row.
-
-
-
-
-Rule 2: The numbers 1 to 9 must appear exactly once in each column.
-
-
-
-Rule 3: Each block can only have one instance of the digits 
 
 
 
