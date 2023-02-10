@@ -3,6 +3,11 @@
 <img src="https://img.shields.io/badge/Aarti Mattoo-pink">
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
 <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen">
+ </p>
+ 
+ <p align="right">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/116307514/218178730-a3c647e5-ed9b-4fd1-816d-332fbedeaff3.png">
+</p>
 
 </p>
 <h3> TABLE OF CONTENTS </h3>
