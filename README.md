@@ -5,7 +5,18 @@
 <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen">
 
 </p>
- 
+<h3> TABLE OF CONTENTS </h3>
+<ol type="I">
+    <li><a href="#intro"> Introduction  </a></li>
+    <li><a href="#scope"> Rules </a></li>
+    <li><a href="#assump"> Data Structure </a></li>
+    <li><a href="#req"> Requirements </a></li>
+    <li><a href="#database"> Database Used </a></li>
+    <li><a href="#prob"> Problems Encountered </a></li>
+    <li><a href="#extension"> Extensions Possible </a></li>
+    <li><a href="#biblio"> Bibliography </a></li>
+    
+ </ol> 
  
 A problem involving the placing of numbers using logic is called sudoku. The goal of traditional Sudoku is to fill a 9 by 9 grid with numbers so that each column, row, and each of the nine 3 x 3 subgrids that make up the grid include all digits from 1 to 9. The difficulty comes from the constraints the player must adhere to in order to fill the grid.
 
