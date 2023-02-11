@@ -27,6 +27,7 @@ A problem involving the placing of numbers using logic is called sudoku. The goa
  </p> 
 
 
+
 <p align="right">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/116307514/218178730-a3c647e5-ed9b-4fd1-816d-332fbedeaff3.png">
 </p>
