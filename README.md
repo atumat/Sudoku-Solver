@@ -45,3 +45,12 @@ Rule 3: Each block can only have one instance of the digits <br>
 
 The soduko grid is represented using a two-dimensional array.The value 0 indicates a free cell whose value will be filled by the code.
 
+
+<h2 id="rules">Constraints</h2>
+<p align="justify">
+ The difficulty comes from the constraints the player must adhere to in order to fill the grid. <br>
+Rule 1: The digits 1 to 9 must appear exactly once in each row.  <br>
+Rule 2: The numbers 1 to 9 must appear exactly once in each column. <br>
+Rule 3: Each block can only have one instance of the digits <br>
+ </p>
+
