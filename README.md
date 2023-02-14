@@ -33,10 +33,7 @@ A problem involving the placing of numbers using logic is called sudoku. The goa
 </p>
 <h2 id="rules">Constraints</h2>
 <p align="justify">
- The difficulty comes from the constraints the player must adhere to in order to fill the grid. <br>
-Rule 1: The digits 1 to 9 must appear exactly once in each row.  <br>
-Rule 2: The numbers 1 to 9 must appear exactly once in each column. <br>
-Rule 3: Each block can only have one instance of the digits <br>
+ A 2D array is also known as a matrix (a table of rows and columns). To create a 2D array of integers, take a look at the following example: int matrix[2][3] = { {1, 4, 2}, {3, 6, 8} }; The first dimension represents the number of rows [2], while the second dimension represents the number of columns [3].
  </p>
 
 
