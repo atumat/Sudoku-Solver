@@ -1,4 +1,4 @@
- # Sudoku-Solver in Java
+ <h1>Sudoku-Solver in Java</h1>
  
  
  <p align="center">
